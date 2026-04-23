@@ -156,5 +156,11 @@ Conclusion
 This project shows how multiple coordinated agents can automate enterprise workflows—specifically customer support ticket handling.
 By separating the system into an Intent Agent, Reply Agent, Escalation Agent, and Coordinator, the notebook clearly demonstrates specialization, communication, and orchestration—all essential ideas in multi-agent systems used in real businesses.
 
+output of this project
+![image alt](output/4.png)
+![image alt](output/5.png)
+![image alt](output/6.png)
+![image alt](output/7.png)
+
 Even in its simple form, this assistant illustrates practical automation strategies and serves as a foundation for more advanced enterprise-level agents.
 The project is easy to understand, lightweight to run, and directly aligned with the goals of the Enterprise Agents track.
